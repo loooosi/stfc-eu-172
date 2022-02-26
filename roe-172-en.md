@@ -2,10 +2,9 @@
 §1 **Survey ships** are protected by RoE and are not to be attacked, unless:
 - The protected cargo limit is exceeded (OPC). (exceptions: look into in §2 - §6, armada and transwarp systems).
 - The mine/node they are on is an empty mine/node (**0 node**), (except in Origin sector and transwarp systems, §3 and §4). A clear warning message, eg “0 Node”, must be given. The time period between killing the miner and the 0 Node message must be no less than three (3) minutes.
-- It is a “Botany Bay” that is mining on a node other than a data node. (except in Origin sector and transwarp systems, §3 and §4). A warning message must be given. The time period before killing the miner must be no less than three minutes. Players shall only clear nodes if no other empty nodes are available.
-- It is a “D’Vor” that is mining on a node other than a latinum node. (except in Origin sector and transwarp systems, §3 and §4).  A warning message must be given. The time period before killing the miner must be no less than three minutes. Players shall only clear nodes if no other empty nodes are available
-- It is a “USS Discovery” that is mining on a node other than a mycelium-node. (except in Origin sector and transwarp systems, §3 and §4).  A warning message must be given. The time period before killing the miner must be no less than three minutes. Players shall only clear nodes if no other empty nodes are available
-
+- It is a “Botany Bay” that is mining on a node other than Data node. (except in Origin sector and transwarp systems, §3 and §4). A clear warning message, eg “wrong node”, must be given. The time period before killing the miner must be no less than three(3) minutes.
+-  It is a “D’Vor/D’Vor Feesha” that is mining on a node other than  Raw Latinum/Concentrated Latinum node. (except in Origin sector and transwarp systems, §3 and §4). A clear warning message, eg “wrong node”, must be given. The time period before killing the miner must be no less than three(3) minutes.
+- “USS Discovery” has status of survey ship only in systems with Mycelium Spore nodes.
 - in addition, look at §2 - §6 and §9
 
 **Armada**  
