@@ -1,7 +1,7 @@
 **Survey ships**  
 §1 **Survey ships** are protected by RoE and are not to be attacked, unless:
 - The protected cargo limit is exceeded (OPC). (exceptions: look into in §2 - §6, armada and transwarp systems).
-- The mine/node they are on is an empty mine/node (**0 node**), (except in Origin sector and transwarp systems, §3 and §4). A clear warning message, eg “0 Node”, must be given. The time period between killing the miner and the 0 Node message must be no less than three (3) minutes.
+- The mine/node they are on is an empty mine/node (**0 node**), (except in Origin sector and transwarp systems, §3 and §4). A clear warning message, eg “0 Node”, must be sent too the player by PM, one message for each miner too be removed. The time period between killing the miner and the 0 Node message must be no less than three (3) minutes.
 - It is a “Botany Bay” that is mining on a node other than Data node. (except in Origin sector and transwarp systems, §3 and §4). A clear warning message, eg “wrong node”, must be given. The time period before killing the miner must be no less than three(3) minutes.
 -  It is a “D’Vor/D’Vor Feesha” that is mining on a node other than  Raw Latinum/Concentrated Latinum node. (except in Origin sector and transwarp systems, §3 and §4). A clear warning message, eg “wrong node”, must be given. The time period before killing the miner must be no less than three(3) minutes.
 - “USS Discovery” has status of survey ship only in systems with Mycelium Spore nodes.
