@@ -2,7 +2,7 @@
 
 §1 Vermessungsschiffe sind durch die ROE geschützt und dürfen nicht angegriffen werden, es sei denn: 
 - Die geschützte Frachtgrenze wird überschritten (opc). (Ausnahmen: siehe §§2-6)
-- Die Mine/node, auf der sie sich befinden, ist eine leere Mine/node (0 node). (außer im Origin Sektor und Transwarpgebieten, §3 und §4). Es muss eine eindeutige Warnung versendet werden (z.B. "0 node"). Der Zeitraum bevor das Vermessungsschiff beseitigt wird, darf nicht weniger als drei (3) Minuten betragen.
+- - Die Mine/node, auf der sie sich befinden, ist eine leere Mine/node (0 node). (außer im Origin Sektor und Transwarpgebieten, §3 und §4). Es muss eine eindeutige Warnung per PN versendet werden (z.B. "0 node"). Es ist eine Nachricht je Vermessungsschiffe nötig. Der Zeitraum bevor das Vermessungsschiff beseitigt wird, darf nicht weniger als drei (3) Minuten betragen.
 - Es handelt sich um eine "Botany Bay", die auf einer anderen Mine als einer Datenmine abbaut (außer im Origin Sektor und Transwarpgebieten, §3 und §4). Es muss eine klare Warnung versendet werden (z.b. falscher Knoten). Der Zeitraum bevor das Vermessungsschiff beseitigt wird, darf nicht weniger als drei (3) Minuten betragen. 
 - Es handelt sich um eine "D'Vor"/D'Vor feesha, die auf einer anderen Mine als einer Latinummine/konzentrieren Latinummine abbaut (außer im Origin Sektor und Transwarpgebieten, §3 und §4). Es muss eine klare Warnung versendet werden (z.b. falscher Knoten). Der Zeitraum bevor das Vermessungsschiff beseitigt wird, darf nicht weniger als drei (3) Minuten betragen. 
 - Die "USS Discovery", hat nur in Systemen mit Mycelium den Status eines Vermessungsschiffes.
